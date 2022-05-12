@@ -96,7 +96,7 @@ http://www.studywithanis.com
 
 ### Image
 ![alt text](image src)    
-![profile](./readme-template/IMG_3024.JPG)
+![profile](./IMG_3024.JPG)
 
 html e chaile  
 <img src = "./IMG_3024.JPG" width="500" title="profile image">
