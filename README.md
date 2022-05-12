@@ -96,10 +96,10 @@ http://www.studywithanis.com
 
 ### Image
 ![alt text](image src)    
-![profile](./readme/IMG_3024.JPG)
+![profile](./readme-template/IMG_3024.JPG)
 
 html e chaile  
-<img src = "./readme/IMG_3024.JPG" width="500" title="profile image">
+<img src = "./readme-template/IMG_3024.JPG" width="500" title="profile image">
 
 pic er upor hover krle title dekhte pabo  
 
