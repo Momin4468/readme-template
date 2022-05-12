@@ -99,7 +99,7 @@ http://www.studywithanis.com
 ![profile](./readme-template/IMG_3024.JPG)
 
 html e chaile  
-<img src = "./readme-template/IMG_3024.JPG" width="500" title="profile image">
+<img src = "./IMG_3024.JPG" width="500" title="profile image">
 
 pic er upor hover krle title dekhte pabo  
 
