@@ -95,7 +95,9 @@ http://www.studywithanis.com
 </br>
 
 ### Image
-![alt text](image src)    
+![alt text](image src)   
+image directory shabdan   
+
 ![profile](./IMG_3024.JPG)
 
 html e chaile  
