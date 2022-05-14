@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-=======
 read me notun text file
 remote e aissha kisu add krlm
 new kisu add krlm abar. branching kore
->>>>>>> 2efdcb506f704d4f3b5f09b016ec57ac37812127
+abaro practice brancihing feature2
+random changes
+
