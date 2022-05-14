@@ -1,2 +1,8 @@
+<<feature
+Test1 file edit krlm branch kore. merge korar jnne. agey empty clo. Himu
+notun line add krlm feature branch e. ager line e "himu" boshailam.
+=======
 Test1 file edit krlm branch kore. merge korar jnne. agey empty clo.
 notun line add krlm master branch e. ager line same rakhlam.
+<<main
+conflict resolve krlm. r demo rekhe dilam
