@@ -2,5 +2,6 @@ read me notun text file
 remote e aissha kisu add krlm
 new kisu add krlm abar. branching kore
 abaro practice brancihing feature2
-again random changes. another one check
+again random changes. another one check.
+Random check again
 
